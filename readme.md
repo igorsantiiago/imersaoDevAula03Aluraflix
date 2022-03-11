@@ -25,3 +25,6 @@ Criar um campo e botão para adicionar a imagem pela tela, e não direto pelo c�
 Links extras
 
 https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array
+
+
+Caso tenha interesse em ver como o projeto ficou: https://igorsantiiago.github.io/imersaoDevAula04Aluraflix/
